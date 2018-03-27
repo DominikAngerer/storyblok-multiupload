@@ -1,6 +1,8 @@
-# Storyblok Field-Type
+# Multiupload Storyblok Custom Field-Type
 
-> A Storyblok Field-Type Plugin Project
+> A Storyblok Custom Field-Type Plugin
+
+![Multiupload Storyblok](//a.storyblok.com/f/40882/a3c31d96cf/storyblok-multiupload.jpg)
 
 ## Build Setup
 
