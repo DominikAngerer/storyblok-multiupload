@@ -2,7 +2,7 @@
 
 > A Storyblok Custom Field-Type Plugin
 
-![Multiupload Storyblok](//a.storyblok.com/f/40882/a3c31d96cf/storyblok-multiupload.jpg)
+![Multiupload Storyblok](https://a.storyblok.com/f/40882/a3c31d96cf/storyblok-multiupload.jpg)
 
 ## Build Setup
 
